@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<meta charset="utf-8">
+<head>
+  <title>Statistics of keyword of 20th and 21st Jan, 2014</title>
+  <script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
+  <script type="text/javascript" src="js/highcharts.js"></script>
+  <script>
+		$(function () {
+		    $('#container').highcharts({
+		        title: {
+		            text: 'Statistics of keyword of 20th and 21st Jan, 2014',
+		            x: -20 //center
+		        },
+		        subtitle: {
+		            text: 'keywords from tagcloud',
+		            x: -20
+		        },
+		        xAxis: {
+		            categories: ['Kronos', 'GAStech', 'POK', 'plane(jet)', 'fire', 'kidnap',
+		                'law', 'ransom', 'Edvard Vann', 'Sten Sanjorge', 'police', 'fourteen']
+		        },
+		        yAxis: {
+		            title: {
+		                text: 'Total appear times'
+		            },
+		            plotLines: [{
+		                value: 0,
+		                width: 1,
+		                color: '#808080'
+		            }]
+		        },
+		        tooltip: {
+		            valueSuffix: 'times'
+		        },
+		        legend: {
+		            layout: 'vertical',
+		            align: 'right',
+		            verticalAlign: 'middle',
+		            borderWidth: 0
+		        },
+		        series: [{
+		            name: 'Jan 20, 2014',
+		            data: [142, 168, 30, 33, 19, 47, 4, 0, 18, 10, 24, 13]
+		        }, {
+		            name: 'Jan 21, 2014',
+		            data: [71, 112, 22, 4, 13, 73, 14, 18, 0, 21, 40, 15]
+		        }]
+		    });
+		});
+  </script>
+</head>
+
+
+
+<body>
+  <div id="container" style="margin-top:20px; min-width:960px;height:500px"></div>
+</body>
+</html>

@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Storyline of Jan 20th to 21st, 2014</title>
+    <script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
+	<script type="text/javascript" src="js/highcharts.js"></script>
+	<script type="text/javascript" src="js/highcharts-more.js"></script>
+	<script>
+	    $(function () {
+	    $('#container').highcharts({
+
+		    chart: {
+		        type: 'bubble',
+		        zoomType: 'xy'
+		    },
+
+		    title: {
+		    	text: 'Storyline of Jan 20th and Jan 21st, 2014'
+		    },
+		    yAxis: {
+		            title: {
+		                text: 'Day'
+		            },
+		            plotLines: [{
+		                value: 0,
+		                width: 1,
+		                color: '#808080'
+		            }]
+		        },
+		    tooltip: {
+		    	    headerFormat: '<b>{series.name}</b><br>',
+		            pointFormat: 'Jan {point.y}, {point.x} : 00'
+		     },
+		    series: [{
+		    	name: 'Annual corporative meeting of GAStech',
+		        data: [[8,20,1]]
+		    },{
+		    	name: 'Fire alarm',
+		        data: [[10,20,10]]
+		    },{
+		    	name: 'Government of Kronos confirmed 14 of GAStech kidnapped.',
+		        data: [[11,20,8]]
+		    },{
+		    	name: 'The first plane took off hurrily.',
+		        data: [[12,20,5]]
+		    },{
+		    	name: 'The second plane set off for Rome,Italy.',
+		        data: [[14,20,5]]
+		    },{
+		    	name: 'Edvard Vann was released after 6-hour questioned.',
+		        data: [[17,20,8]]
+		    },{
+		    	name: 'Tethyn federal law enforcement flew to Kronos with help.',
+		        data: [[20,20,3]]
+		    },{
+		    	name: '4 employees are found at night.',
+		        data: [[22,20,5]]
+		    },{
+		    	name: 'Police of Abila annnounced four of GAStech yesterday were found, leaving ten people missing.',
+		        data: [[9,21,8]]
+		    },{
+		    	name: 'A GAStech International news conference held. The number of the missing revised ten.',
+		        data: [[10,21,10]]
+		    }]
+		
+		});
+	    
+		});	
+	</script>
+</head>
+
+<body>
+  <div id="container" style="min-width:960px;height:500px"></div>
+</body>
+</html>

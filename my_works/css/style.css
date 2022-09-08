@@ -1,0 +1,64 @@
+h1, h2, h3, h4, h5 {
+	margin-bottom: 0.5rem;
+	margin-top: 1rem;
+	padding: 0;
+}
+
+p {
+}
+
+small {
+
+}
+
+
+body {
+	overflow: auto;
+	margin: 0;
+	padding: 2rem;
+
+	display: flex;
+	flex-direction: column;
+}
+
+header, footer {
+	text-align: center;
+	padding: 1rem 0;
+}
+
+header{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.images-counter, .video-counter, .others-counter {
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	margin: 2rem;
+
+}
+.video-counter div, .others-counter div{
+		margin-bottom: 5rem;
+}
+
+.images-counter div, .others-counter div{
+	margin: 1rem 0;
+	display: inline-table;
+	text-align: center;
+}
+
+.images-counter img, .others-counter img{
+	vertical-align: middle;
+	align-self: center;
+	width: 30%;
+	padding: 0.5%;
+
+}
+
+.big-img {
+	width: 60% !important;
+}

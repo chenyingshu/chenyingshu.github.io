@@ -1,0 +1,27 @@
+
+body {
+	font-style: bold;
+	font-family: "方正姚体_GBK"
+}
+
+
+a{
+  text-decoration: none; 
+}
+
+a:visited{
+  color: black;
+}
+
+a.xx:hover{
+   font-size: 48px;
+}
+
+a.lk:hover{
+  font-size: 20px;
+  color: steelblue;
+}
+a.wk:hover{
+  font-size: 20px;
+  color: coral;
+}

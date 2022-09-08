@@ -1,0 +1,23 @@
+Insight:
+	0) Using USB is better connected than using Bluetooth.
+	1) Hair matters, remove hair from sensors as much as possible.
+	2) Emotiv Insight fluid does not matter much
+	3) To fit correct sensors positions, among which the two references guide the others. When the reference sensor behind ear is detected well (close to muscle and bone), others can be detected much better.
+	4) "Pz" sensor(the one on the top of head) is the one hardest to be detected well. Sensors touching fully with scalp leads to good connection.
+	5) Please charge enough. Power duration: Only 4 hrs using Bluetooth(r) SMART mode.
+Charging can activate the device.
+	6) the relatively longer correct wearing correctly the better connection.
+
+EPOC+:
+	0) Till now, tests only reached 78% contact quality (BAD, not enough for app)
+ 	1) Hair matters. But it is not easy to remove hair for all 16 sensors.
+	2) Always hydrate the sensors FULLY saturated with saline solution. Or try hydrating hair directly where sensors are.
+	3)Put the two references on correct positions. (mastoid bone) 
+	4) Sensors should touch firmly, entirely with scalp, especially sensors NEAR ears.
+	5) Charge first!!! (4-5 hours)
+	6) Close to the USB dongle as near as possible, which improve contact signal.
+
+Addition:
+1) do not wear for long, it is aching.
+2) pressing can trigger detection.
+3) always charge before using it again, cuz it always losing power as time passes.

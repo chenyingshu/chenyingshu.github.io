@@ -1,0 +1,1718 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="885px"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css" viewBox="-1032 -843 1879 1784" height="841px"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="22.0"
+              d="M -595.104614,699.917664 C -459.557739,564.370789 -459.557739,835.464539 -595.104614,699.917664"
+              class="Art" stroke-opacity="1.0" stroke="#57fa57"/>
+        <path fill="none" stroke-width="7.0"
+              d="M -595.104614,699.917664 C -581.985657,729.444336 -606.597290,793.412781 -636.123962,806.531738"
+              class="Art Jiangnan-University" stroke-opacity="1.0"
+              stroke="#57fa57"/>
+        <path fill="none" stroke-width="28.0"
+              d="M -595.104614,699.917664 C -626.005615,705.168152 -680.232788,666.692505 -685.483276,635.791504"
+              class="Art design" stroke-opacity="1.0" stroke="#57fa57"/>
+        <path fill="none" stroke-width="7.0"
+              d="M -595.104614,699.917664 C -596.879517,731.597229 -647.061218,776.454102 -678.740784,774.679199"
+              class="Art Beijing-Institute-Of-Fashion-Technology"
+              stroke-opacity="1.0" stroke="#57fa57"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -595.104614,699.917664 C -569.241333,762.708435 -624.632690,895.689575 -687.423462,921.552856"
+              class="Art Xiangtan-University" stroke-opacity="1.0"
+              stroke="#57fa57"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -595.104614,699.917664 C -551.410461,713.938599 -506.900543,800.511108 -520.921448,844.205261"
+              class="Art Animation" stroke-opacity="1.0" stroke="#57fa57"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -595.104614,699.917664 C -604.122375,565.082397 -415.396118,349.302826 -280.560852,340.285065"
+              class="Art South-China-Agricultural-University"
+              stroke-opacity="1.0" stroke="#57a8a8"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -595.104614,699.917664 C -561.160095,699.267944 -509.268738,749.210083 -508.619049,783.154602"
+              class="Art Fashion" stroke-opacity="1.0" stroke="#57fa57"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -595.104614,699.917664 C -565.765686,716.430298 -546.526367,785.207520 -563.039001,814.546448"
+              class="Art Engineering" stroke-opacity="1.0" stroke="#57fa57"/>
+        <path fill="none" stroke-width="3.0"
+              d="M -595.104614,699.917664 C -568.280762,729.799622 -572.867798,814.858337 -602.749756,841.682190"
+              class="Art Tsinghua-University" stroke-opacity="1.0"
+              stroke="#57fa57"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -595.104614,699.917664 C -602.675903,744.379089 -680.724915,799.714355 -725.186340,792.143066"
+              class="Art The-China-Academy-of-Art" stroke-opacity="1.0"
+              stroke="#57fa57"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -595.104614,699.917664 C -600.367859,765.730225 -706.981567,856.554199 -772.794128,851.290955"
+              class="Art Hainan-University" stroke-opacity="1.0"
+              stroke="#57fa57"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -595.104614,699.917664 C -581.964050,743.728638 -627.969727,829.155945 -671.780701,842.296509"
+              class="Art Painting" stroke-opacity="1.0" stroke="#57fa57"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -595.104614,699.917664 C -546.099121,743.169983 -537.469299,881.556641 -580.721619,930.562134"
+              class="Art Luxun-Academy-of-Fine-Arts" stroke-opacity="1.0"
+              stroke="#57fa57"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -595.104614,699.917664 C -613.679749,730.117798 -686.842651,747.555298 -717.042786,728.980164"
+              class="Art Guangzhou-Acmdemy-of-Fine-Arts" stroke-opacity="1.0"
+              stroke="#57fa57"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -595.104614,699.917664 C -598.913269,593.888062 -445.581909,429.130737 -339.552338,425.322052"
+              class="Art Industrial" stroke-opacity="1.0" stroke="#57a8a8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -595.104614,699.917664 C -584.414185,765.502258 -666.755493,879.914856 -732.340088,890.605286"
+              class="Art Design" stroke-opacity="1.0" stroke="#57fa57"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -595.104614,699.917664 C -617.251648,758.641846 -738.558411,813.507507 -797.282593,791.360474"
+              class="Art Sculpture" stroke-opacity="1.0" stroke="#57fa57"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -595.104614,699.917664 C -537.616089,728.302429 -493.960510,857.112366 -522.345276,914.600891"
+              class="Art Sichuan-Fine-Art-Institute" stroke-opacity="1.0"
+              stroke="#57fa57"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -595.104614,699.917664 C -607.190491,506.937988 -335.849884,199.339676 -142.870209,187.253754"
+              class="Art South-China-Normal-University" stroke-opacity="1.0"
+              stroke="#57a8a8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -595.104614,699.917664 C -557.395020,753.466248 -581.153381,890.353638 -634.701965,928.063232"
+              class="Art Donghua-University" stroke-opacity="1.0"
+              stroke="#57fa57"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -595.104614,699.917664 C -558.632874,646.114502 -423.220581,620.117249 -369.417389,656.588989"
+              class="Art Beijing-Forestry-University" stroke-opacity="1.0"
+              stroke="#57fa57"/>
+        <path fill="none" stroke-width="18.0"
+              d="M 66.557785,-63.759293 C 77.942924,86.473320 -130.328247,328.899933 -280.560852,340.285065"
+              class="Liberal-arts South-China-Agricultural-University"
+              stroke-opacity="1.0" stroke="#5757fa"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 66.557785,-63.759293 C 83.152039,115.278992 -160.514053,408.727814 -339.552338,425.322052"
+              class="Liberal-arts Industrial" stroke-opacity="1.0"
+              stroke="#5757fa"/>
+        <path fill="none" stroke-width="17.0"
+              d="M 66.557785,-63.759293 C 74.874794,28.328918 -50.781994,178.936752 -142.870209,187.253754"
+              class="Liberal-arts South-China-Normal-University"
+              stroke-opacity="1.0" stroke="#5757fa"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 66.557785,-63.759293 C 123.432411,167.505402 -138.152695,599.714355 -369.417389,656.588989"
+              class="Liberal-arts Beijing-Forestry-University"
+              stroke-opacity="1.0" stroke="#57a8a8"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 66.557785,-63.759293 C 131.237518,-181.368774 404.671295,-260.763397 522.280762,-196.083694"
+              class="Liberal-arts Central-University-of-Finance-and-Economics"
+              stroke-opacity="1.0" stroke="#5757fa"/>
+        <path fill="none" stroke-width="19.0"
+              d="M 66.557785,-63.759293 C 25.278910,-22.882534 -97.954536,-23.485714 -138.831299,-64.764587"
+              class="Liberal-arts English" stroke-opacity="1.0" stroke="#5757fa"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 66.557785,-63.759293 C 262.568878,17.286198 435.017273,432.871063 353.971771,628.882141"
+              class="Liberal-arts Hunan-University" stroke-opacity="1.0"
+              stroke="#5757fa"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 66.557785,-63.759293 C -69.450607,-233.679855 -18.582336,-692.573242 151.338226,-828.581604"
+              class="Liberal-arts Administrative" stroke-opacity="1.0"
+              stroke="#5757fa"/>
+        <path fill="none" stroke-width="18.0"
+              d="M 66.557785,-63.759293 C 41.264492,-116.876312 83.000107,-234.491806 136.117126,-259.785095"
+              class="Liberal-arts management" stroke-opacity="1.0"
+              stroke="#5757fa"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 66.557785,-63.759293 C -12.993958,-238.020233 129.069839,-618.739258 303.330780,-698.291016"
+              class="Liberal-arts Communication-University-of-China"
+              stroke-opacity="1.0" stroke="#5757fa"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 66.557785,-63.759293 C -114.753143,29.212677 -526.177429,-103.295761 -619.149414,-284.606689"
+              class="Liberal-arts Creative" stroke-opacity="1.0"
+              stroke="#5757fa"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 66.557785,-63.759293 C 253.047043,-177.060867 702.733398,-67.279327 816.034912,119.209938"
+              class="Liberal-arts media" stroke-opacity="1.0" stroke="#5757fa"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 66.557785,-63.759293 C -138.016434,-134.867783 -338.215027,-548.391846 -267.106537,-752.966064"
+              class="Liberal-arts Chongqing-University" stroke-opacity="1.0"
+              stroke="#5757fa"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 66.557785,-63.759293 C -64.098953,-34.898209 -303.375702,-187.591675 -332.236786,-318.248413"
+              class="Liberal-arts Electronic" stroke-opacity="1.0"
+              stroke="#5757fa"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 66.557785,-63.759293 C 171.209778,20.655285 201.565872,304.255127 117.151299,408.907104"
+              class="Liberal-arts commerce" stroke-opacity="1.0"
+              stroke="#5757fa"/>
+        <path fill="none" stroke-width="20.0"
+              d="M 66.557785,-63.759293 C 9.502445,-69.047516 -68.148239,-162.562836 -62.860016,-219.618179"
+              class="Liberal-arts Zhongshan-University" stroke-opacity="1.0"
+              stroke="#5757fa"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 66.557785,-63.759293 C -54.038132,-5.341812 -322.558289,-98.609467 -380.975739,-219.205383"
+              class="Liberal-arts Exhibition" stroke-opacity="1.0"
+              stroke="#5757fa"/>
+        <path fill="none" stroke-width="7.0"
+              d="M 66.557785,-63.759293 C 21.182934,-0.910061 -141.153183,25.301514 -204.002426,-20.073336"
+              class="Liberal-arts economy" stroke-opacity="1.0" stroke="#5757fa"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 66.557785,-63.759293 C 135.632233,21.606232 111.195618,253.266159 25.830095,322.340607"
+              class="Liberal-arts Renmin-University-of-China"
+              stroke-opacity="1.0" stroke="#5757fa"/>
+        <path fill="none" stroke-width="7.0"
+              d="M 66.557785,-63.759293 C 143.648071,-62.496357 257.389099,55.033470 256.126160,132.123749"
+              class="Liberal-arts Management" stroke-opacity="1.0"
+              stroke="#5757fa"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 66.557785,-63.759293 C 234.938202,-202.610535 695.785706,-158.316788 834.636963,10.063625"
+              class="Liberal-arts national" stroke-opacity="1.0"
+              stroke="#5757fa"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 66.557785,-63.759293 C 72.675056,-281.717896 408.788849,-599.479858 626.747498,-593.362610"
+              class="Liberal-arts economy." stroke-opacity="1.0"
+              stroke="#5757fa"/>
+        <path fill="none" stroke-width="12.0"
+              d="M 66.557785,-63.759293 C 83.118042,-0.488682 13.052525,119.257614 -50.218086,135.817871"
+              class="Liberal-arts Economics" stroke-opacity="1.0"
+              stroke="#5757fa"/>
+        <path fill="none" stroke-width="27.0"
+              d="M 66.557785,-63.759293 C 41.518150,23.254471 -126.561920,116.215660 -213.575684,91.176025"
+              class="Liberal-arts Guangdong-University-of-Foreign-Studies"
+              stroke-opacity="1.0" stroke="#5757fa"/>
+        <path fill="none" stroke-width="8.0"
+              d="M 66.557785,-63.759293 C 129.988571,-101.653580 281.976166,-63.348831 319.870453,0.081955"
+              class="Liberal-arts International" stroke-opacity="1.0"
+              stroke="#5757fa"/>
+        <path fill="none" stroke-width="7.0"
+              d="M 66.557785,-63.759293 C -0.750641,-101.048645 -45.779251,-257.945313 -8.489897,-325.253754"
+              class="Liberal-arts Business" stroke-opacity="1.0"
+              stroke="#5757fa"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 66.557785,-63.759293 C 163.090561,-114.829483 384.494965,-46.635590 435.565155,49.897190"
+              class="Liberal-arts Shandong-University-at-Weihai"
+              stroke-opacity="1.0" stroke="#5757fa"/>
+        <path fill="none" stroke-width="13.0"
+              d="M 66.557785,-63.759293 C 123.205910,-33.431606 162.686584,97.032104 132.358887,153.680237"
+              class="Liberal-arts Jinan-University" stroke-opacity="1.0"
+              stroke="#5757fa"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 66.557785,-63.759293 C 55.412605,-151.393677 170.146423,-299.563019 257.780792,-310.708191"
+              class="Liberal-arts trade" stroke-opacity="1.0" stroke="#5757fa"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 66.557785,-63.759293 C -139.425110,-8.378555 -531.470459,-234.281754 -586.851196,-440.264648"
+              class="Liberal-arts Beijing-Jiaotong-University"
+              stroke-opacity="1.0" stroke="#5757fa"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 66.557785,-63.759293 C -146.625458,-43.649445 -496.565094,-333.259552 -516.674927,-546.442810"
+              class="Liberal-arts Economic" stroke-opacity="1.0"
+              stroke="#5757fa"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 66.557785,-63.759293 C 257.893616,-39.956345 509.192963,282.751801 485.390015,474.087646"
+              class="Liberal-arts experiment" stroke-opacity="1.0"
+              stroke="#5757fa"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 66.557785,-63.759293 C -14.697964,-75.609818 -118.805763,-215.269257 -106.955238,-296.524994"
+              class="Liberal-arts class" stroke-opacity="1.0" stroke="#5757fa"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 66.557785,-63.759293 C -8.096245,-126.024208 -26.679909,-331.402649 35.585007,-406.056671"
+              class="Liberal-arts Accounting" stroke-opacity="1.0"
+              stroke="#5757fa"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 66.557785,-63.759293 C 131.531311,-124.222008 319.685669,-117.455811 380.148376,-52.482288"
+              class="Liberal-arts Tourism" stroke-opacity="1.0" stroke="#5757fa"/>
+        <path fill="none" stroke-width="11.0"
+              d="M 66.557785,-63.759293 C 106.622818,-117.685684 247.609924,-138.477707 301.536316,-98.412682"
+              class="Liberal-arts Law" stroke-opacity="1.0" stroke="#5757fa"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 66.557785,-63.759293 C -149.669006,-74.420288 -458.017670,-414.751892 -447.356689,-630.978699"
+              class="Liberal-arts Xi&apos;an-International-Studies-University"
+              stroke-opacity="1.0" stroke="#5757fa"/>
+        <path fill="none" stroke-width="7.0"
+              d="M 66.557785,-63.759293 C -2.006914,-28.657711 -157.506317,-78.852386 -192.607910,-147.417084"
+              class="Liberal-arts Japanese" stroke-opacity="1.0"
+              stroke="#5757fa"/>
+        <path fill="none" stroke-width="7.0"
+              d="M 66.557785,-63.759293 C 121.457787,-8.894933 121.511238,155.751617 66.646881,210.651611"
+              class="Liberal-arts Chinese" stroke-opacity="1.0" stroke="#5757fa"/>
+        <path fill="none" stroke-width="13.0"
+              d="M 66.557785,-63.759293 C 71.889709,-127.656616 175.733597,-215.504700 239.630920,-210.172775"
+              class="Liberal-arts language" stroke-opacity="1.0"
+              stroke="#5757fa"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 66.557785,-63.759293 C 35.119141,-139.783707 101.997795,-300.978302 178.022202,-332.416962"
+              class="Liberal-arts literature" stroke-opacity="1.0"
+              stroke="#5757fa"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 66.557785,-63.759293 C 145.094223,-87.476700 298.474976,-5.248180 322.192383,73.288246"
+              class="Liberal-arts South-China-University-of-Technology"
+              stroke-opacity="1.0" stroke="#5757fa"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 66.557785,-63.759293 C 44.711365,-195.559021 209.641296,-426.028259 341.441010,-447.874664"
+              class="Liberal-arts Auditing" stroke-opacity="1.0"
+              stroke="#5757fa"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 66.557785,-63.759293 C -14.621674,-53.734283 -151.428375,-160.465973 -161.453384,-241.645432"
+              class="Liberal-arts Shantou-University" stroke-opacity="1.0"
+              stroke="#5757fa"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 66.557785,-63.759293 C 13.323280,-158.808151 76.044807,-381.233215 171.093674,-434.467743"
+              class="Liberal-arts Literature" stroke-opacity="1.0"
+              stroke="#5757fa"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 66.557785,-63.759293 C -36.333107,22.235649 -319.661835,-3.108269 -405.656799,-105.999161"
+              class="Liberal-arts Advertising" stroke-opacity="1.0"
+              stroke="#5757fa"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 66.557785,-63.759293 C 172.841675,-36.566547 291.478394,163.648422 264.285645,269.932312"
+              class="Liberal-arts Gardens" stroke-opacity="1.0" stroke="#5757fa"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 66.557785,-63.759293 C 106.455742,8.178991 58.395256,175.933350 -13.543027,215.831314"
+              class="Liberal-arts Public" stroke-opacity="1.0" stroke="#5757fa"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 66.557785,-63.759293 C -90.817352,48.303650 -494.974457,-19.664627 -607.037415,-177.039764"
+              class="Liberal-arts Property" stroke-opacity="1.0"
+              stroke="#5757fa"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 66.557785,-63.759293 C 163.979446,-72.647743 323.444611,60.152058 332.333069,157.573715"
+              class="Liberal-arts Foreign" stroke-opacity="1.0" stroke="#5757fa"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 66.557785,-63.759293 C -25.313908,-96.084259 -114.633987,-282.379211 -82.309029,-374.250916"
+              class="Liberal-arts commercial" stroke-opacity="1.0"
+              stroke="#5757fa"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 66.557785,-63.759293 C -63.918362,-92.766342 -216.121979,-331.991150 -187.114929,-462.467316"
+              class="Liberal-arts Zhengzhou-University" stroke-opacity="1.0"
+              stroke="#5757fa"/>
+        <path fill="none" stroke-width="7.0"
+              d="M 66.557785,-63.759293 C 15.544918,-121.847351 26.157703,-285.498718 84.245766,-336.511597"
+              class="Liberal-arts Finance" stroke-opacity="1.0" stroke="#5757fa"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 66.557785,-63.759293 C 226.352142,-170.032532 625.453552,-89.750839 731.726807,70.043526"
+              class="Liberal-arts Human" stroke-opacity="1.0" stroke="#5757fa"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 66.557785,-63.759293 C 248.700226,-6.382839 435.849243,352.895508 378.472778,535.037964"
+              class="Liberal-arts resource" stroke-opacity="1.0"
+              stroke="#5757fa"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 66.557785,-63.759293 C 176.926208,-141.740143 459.450134,-93.158775 537.430969,17.209650"
+              class="Liberal-arts Liaoning-University" stroke-opacity="1.0"
+              stroke="#5757fa"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 66.557785,-63.759293 C 73.993820,-197.620895 285.940247,-387.259277 419.801849,-379.823212"
+              class="Liberal-arts Fudan-University" stroke-opacity="1.0"
+              stroke="#5757fa"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 66.557785,-63.759293 C -10.495007,-5.476616 -213.498184,-33.631798 -271.780853,-110.684586"
+              class="Liberal-arts History" stroke-opacity="1.0" stroke="#5757fa"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 66.557785,-63.759293 C -68.171432,-199.659592 -66.414818,-605.603821 69.485481,-740.333069"
+              class="Liberal-arts Peking-University" stroke-opacity="1.0"
+              stroke="#5757fa"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 66.557785,-63.759293 C -121.513870,-33.671677 -448.752747,-270.647705 -478.840393,-458.719360"
+              class="Liberal-arts Zhejiang-University" stroke-opacity="1.0"
+              stroke="#5757fa"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 66.557785,-63.759293 C 117.730736,-146.603149 318.755951,-194.109512 401.599792,-142.936569"
+              class="Liberal-arts Social" stroke-opacity="1.0" stroke="#5757fa"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 66.557785,-63.759293 C 155.851837,-163.786346 439.833466,-179.885864 539.860535,-90.591820"
+              class="Liberal-arts science" stroke-opacity="1.0" stroke="#5757fa"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 66.557785,-63.759293 C -54.196980,-121.735275 -148.365158,-389.831360 -90.389175,-510.586151"
+              class="Liberal-arts experimental" stroke-opacity="1.0"
+              stroke="#5757fa"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 66.557785,-63.759293 C -26.554905,-34.968498 -209.410126,-131.451324 -238.200928,-224.564026"
+              class="Liberal-arts public" stroke-opacity="1.0" stroke="#5757fa"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 66.557785,-63.759293 C -107.976089,-142.299698 -251.966278,-521.911133 -173.425873,-696.445007"
+              class="Liberal-arts utilities" stroke-opacity="1.0"
+              stroke="#5757fa"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 66.557785,-63.759293 C 93.966125,-141.022583 250.973557,-215.804993 328.236847,-188.396652"
+              class="Liberal-arts News" stroke-opacity="1.0" stroke="#5757fa"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 66.557785,-63.759293 C 145.137527,-39.343384 226.383270,115.150078 201.967361,193.729828"
+              class="Liberal-arts communication" stroke-opacity="1.0"
+              stroke="#5757fa"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 66.557785,-63.759293 C 134.222519,-271.366943 547.131042,-481.281250 754.738647,-413.616547"
+              class="Liberal-arts Beijing-International-Studies-University"
+              stroke-opacity="1.0" stroke="#5757fa"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 66.557785,-63.759293 C -118.778351,-109.264435 -328.524841,-455.526276 -283.019684,-640.862427"
+              class="Liberal-arts Russian" stroke-opacity="1.0" stroke="#5757fa"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 66.557785,-63.759293 C -126.069443,-164.147110 -264.428528,-603.669678 -164.040726,-796.296875"
+              class="Liberal-arts China-University-of-Geosciences-(Wuhan)"
+              stroke-opacity="1.0" stroke="#5757fa"/>
+        <path fill="none" stroke-width="3.0"
+              d="M 66.557785,-63.759293 C -0.467641,23.019314 -231.173706,52.649082 -317.952301,-14.376345"
+              class="Liberal-arts Guangdong-Police-College" stroke-opacity="1.0"
+              stroke="#5757fa"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 66.557785,-63.759293 C 147.944016,-10.820206 190.614731,190.667786 137.675644,272.054016"
+              class="Liberal-arts Science" stroke-opacity="1.0" stroke="#5757fa"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 66.557785,-63.759293 C 78.931290,-160.212265 242.170990,-286.331421 338.623962,-273.957916"
+              class="Liberal-arts security" stroke-opacity="1.0"
+              stroke="#5757fa"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 66.557785,-63.759293 C 103.657753,-192.505737 352.427368,-329.975403 481.173828,-292.875458"
+              class="Liberal-arts Administration" stroke-opacity="1.0"
+              stroke="#5757fa"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 66.557785,-63.759293 C 200.375381,-78.077194 422.578644,101.172363 436.896545,234.989960"
+              class="Liberal-arts Indonesia" stroke-opacity="1.0"
+              stroke="#5757fa"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 66.557785,-63.759293 C 151.716141,-235.326797 536.804932,-364.940521 708.372437,-279.782166"
+              class="Liberal-arts Central-South-University" stroke-opacity="1.0"
+              stroke="#5757fa"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 66.557785,-63.759293 C 212.763626,-225.921921 675.316284,-249.857117 837.478943,-103.651276"
+              class="Liberal-arts Nanjing-University" stroke-opacity="1.0"
+              stroke="#5757fa"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 66.557785,-63.759293 C -90.516129,-172.579086 -162.897293,-571.419678 -54.077499,-728.493591"
+              class="Liberal-arts Dongbei-University-of-Finance-and-Economics"
+              stroke-opacity="1.0" stroke="#5757fa"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 66.557785,-63.759293 C 242.476822,-139.294281 619.657837,11.281792 695.192810,187.200836"
+              class="Liberal-arts Labor" stroke-opacity="1.0" stroke="#5757fa"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 66.557785,-63.759293 C 119.613373,-247.965179 475.505615,-444.690613 659.711487,-391.635040"
+              class="Liberal-arts social" stroke-opacity="1.0" stroke="#5757fa"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 66.557785,-63.759293 C 12.013443,-275.387024 247.638504,-674.645081 459.266235,-729.189453"
+              class="Liberal-arts Financial" stroke-opacity="1.0"
+              stroke="#5757fa"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 66.557785,-63.759293 C -111.113930,-190.316132 -187.786240,-646.658936 -61.229408,-824.330627"
+              class="Liberal-arts Southwestern-University" stroke-opacity="1.0"
+              stroke="#5757fa"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 66.557785,-63.759293 C 200.896271,-45.525448 375.053223,183.333023 356.819366,317.671509"
+              class="Liberal-arts China-University-of-Political-Science-and-Law"
+              stroke-opacity="1.0" stroke="#5757fa"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 66.557785,-63.759293 C 193.841309,-108.980179 452.597961,14.113762 497.818848,141.397278"
+              class="Liberal-arts Zhongnan-University-of-Economics-and-Law"
+              stroke-opacity="1.0" stroke="#5757fa"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 66.557785,-63.759293 C -42.403481,-221.729340 31.109665,-622.126221 189.079712,-731.087463"
+              class="Liberal-arts Wuhan-University" stroke-opacity="1.0"
+              stroke="#5757fa"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 66.557785,-63.759293 C -145.814301,-104.260788 -403.620087,-483.571106 -363.118591,-695.943176"
+              class="Liberal-arts Editing" stroke-opacity="1.0" stroke="#5757fa"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 66.557785,-63.759293 C 238.563080,31.994175 352.940796,433.632263 257.187347,605.637573"
+              class="Liberal-arts Publishing" stroke-opacity="1.0"
+              stroke="#5757fa"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 66.557785,-63.759293 C 221.638992,55.530655 275.325867,467.087433 156.035934,622.168640"
+              class="Liberal-arts German" stroke-opacity="1.0" stroke="#5757fa"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 66.557785,-63.759293 C 53.639580,-255.122467 321.307007,-561.544495 512.670166,-574.462708"
+              class="Liberal-arts Humanities" stroke-opacity="1.0"
+              stroke="#5757fa"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 66.557785,-63.759293 C 15.596474,-188.600571 126.416405,-452.304413 251.257690,-503.265747"
+              class="Liberal-arts Tax" stroke-opacity="1.0" stroke="#5757fa"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 66.557785,-63.759293 C 189.567047,-7.811554 290.159332,260.623962 234.211594,383.633240"
+              class="Liberal-arts work" stroke-opacity="1.0" stroke="#5757fa"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 66.557785,-63.759293 C 104.262337,-278.551086 483.006836,-544.181946 697.798645,-506.477417"
+              class="Liberal-arts The-Central-Instituite-for-Correctional-Police"
+              stroke-opacity="1.0" stroke="#5757fa"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 66.557785,-63.759293 C 283.561584,-54.405624 595.036743,285.130554 585.683105,502.134338"
+              class="Liberal-arts prison" stroke-opacity="1.0" stroke="#5757fa"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 66.557785,-63.759293 C 276.881012,-17.813713 523.447510,366.589508 477.501892,576.912720"
+              class="Liberal-arts study" stroke-opacity="1.0" stroke="#5757fa"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 66.557785,-63.759293 C -37.954468,-147.738831 -68.753525,-430.476501 15.226031,-534.988770"
+              class="Liberal-arts Radio" stroke-opacity="1.0" stroke="#5757fa"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 66.557785,-63.759293 C -16.012543,-265.599274 162.891922,-692.214722 364.731903,-774.785034"
+              class="Liberal-arts television" stroke-opacity="1.0"
+              stroke="#5757fa"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 66.557785,-63.759293 C 86.855179,-254.899200 404.011169,-511.162994 595.151062,-490.865570"
+              class="Liberal-arts director" stroke-opacity="1.0"
+              stroke="#5757fa"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 66.557785,-63.759293 C 161.925507,-260.561127 600.179810,-412.712280 796.981628,-317.344543"
+              class="Liberal-arts Politics" stroke-opacity="1.0"
+              stroke="#5757fa"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 66.557785,-63.759293 C 267.077179,-150.422607 697.851257,20.361481 784.514587,220.880875"
+              class="Liberal-arts East-China-Normal-University"
+              stroke-opacity="1.0" stroke="#5757fa"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 66.557785,-63.759293 C 206.085373,-196.476212 614.452087,-186.260223 747.169006,-46.732628"
+              class="Liberal-arts French" stroke-opacity="1.0" stroke="#5757fa"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 66.557785,-63.759293 C 253.737762,-106.202408 598.172424,110.902870 640.615540,298.082855"
+              class="Liberal-arts foreign" stroke-opacity="1.0" stroke="#5757fa"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 66.557785,-63.759293 C 282.613281,-89.481392 645.279663,196.018738 671.001770,412.074219"
+              class="Liberal-arts Education" stroke-opacity="1.0"
+              stroke="#5757fa"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 66.557785,-63.759293 C -43.527557,-251.647430 73.176620,-698.607666 261.064758,-808.692993"
+              class="Liberal-arts Southwestern-University-of-Finance-and-Economics"
+              stroke-opacity="1.0" stroke="#5757fa"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 66.557785,-63.759293 C 19.772835,-249.293579 227.896851,-597.772522 413.431152,-644.557434"
+              class="Liberal-arts Logistics" stroke-opacity="1.0"
+              stroke="#5757fa"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 66.557785,-63.759293 C -123.227547,-72.285301 -395.116486,-369.752258 -386.590485,-559.537598"
+              class="Liberal-arts Comprehensive personnel training class two, experimental arts"
+              stroke-opacity="1.0" stroke="#5757fa"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 66.557785,-63.759293 C -66.601501,-64.037910 -265.922516,-264.194763 -265.643890,-397.354065"
+              class="Liberal-arts East-China-University-of-politics-and-law"
+              stroke-opacity="1.0" stroke="#5757fa"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 66.557785,-63.759293 C -92.197571,-213.076355 -106.354988,-675.184998 42.962078,-833.940308"
+              class="Liberal-arts Translation" stroke-opacity="1.0"
+              stroke="#5757fa"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 66.557785,-63.759293 C -113.876312,2.117531 -483.342651,-169.718384 -549.219482,-350.152466"
+              class="Liberal-arts Southwest-University-of-Political-Science-and-Law"
+              stroke-opacity="1.0" stroke="#5757fa"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 66.557785,-63.759293 C -16.049713,-170.169342 19.654099,-453.695618 126.064133,-536.303101"
+              class="Liberal-arts Journalism" stroke-opacity="1.0"
+              stroke="#5757fa"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 66.557785,-63.759293 C 181.103210,-217.973785 584.243164,-277.477356 738.457642,-162.931915"
+              class="Liberal-arts Guangzhou-University-of-Chinese-Medicine"
+              stroke-opacity="1.0" stroke="#5757fa"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 66.557785,-63.759293 C 276.530823,-121.496948 678.096863,106.856094 735.834534,316.829132"
+              class="Liberal-arts Acupuncture" stroke-opacity="1.0"
+              stroke="#5757fa"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 66.557785,-63.759293 C 41.503105,-280.366943 328.832581,-642.860413 545.440247,-667.915100"
+              class="Liberal-arts massage" stroke-opacity="1.0" stroke="#5757fa"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 66.557785,-63.759293 C 259.111389,-73.055084 561.885498,201.831604 571.181274,394.385193"
+              class="Liberal-arts Television" stroke-opacity="1.0"
+              stroke="#5757fa"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 66.557785,-63.759293 C 187.848724,-245.212494 641.964966,-335.455872 823.418152,-214.164932"
+              class="Liberal-arts Huaqiao-University" stroke-opacity="1.0"
+              stroke="#5757fa"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -864.429443,459.943207 C -762.569580,454.073151 -600.974731,598.057800 -595.104614,699.917664"
+              class="Music Art" stroke-opacity="1.0" stroke="#a8a857"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -864.429443,459.943207 C -793.470520,459.323608 -686.102844,564.832581 -685.483276,635.791504"
+              class="Music design" stroke-opacity="1.0" stroke="#a8a857"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -864.429443,459.943207 C -808.012085,256.018982 -417.499908,34.758713 -213.575684,91.176025"
+              class="Music Guangdong-University-of-Foreign-Studies"
+              stroke-opacity="1.0" stroke="#a857a8"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -864.429443,459.943207 C -754.411743,349.925537 -754.411743,569.960876 -864.429443,459.943207"
+              class="Music" stroke-opacity="1.0" stroke="#fa5757"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -864.429443,459.943207 C -900.485535,455.674866 -948.167114,395.188232 -943.898743,359.132172"
+              class="Music Nanjing-Arts-Institute" stroke-opacity="1.0"
+              stroke="#fa5757"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -864.429443,459.943207 C -881.376831,483.791077 -942.569641,494.141846 -966.417542,477.194489"
+              class="Music Xinghai-Conservatory-of-Music" stroke-opacity="1.0"
+              stroke="#fa5757"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -864.429443,459.943207 C -874.845642,498.877136 -948.870911,541.653687 -987.804810,531.237488"
+              class="Music Musicology" stroke-opacity="1.0" stroke="#fa5757"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -864.429443,459.943207 C -887.495605,496.440033 -976.840088,516.586060 -1013.336914,493.519867"
+              class="Music Nanjing-Normal-University" stroke-opacity="1.0"
+              stroke="#fa5757"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -864.429443,459.943207 C -861.847656,497.183441 -913.835266,556.916443 -951.075500,559.498230"
+              class="Music School" stroke-opacity="1.0" stroke="#fa5757"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -864.429443,459.943207 C -898.547546,488.893585 -993.150146,481.142029 -1022.100525,447.023987"
+              class="Music music." stroke-opacity="1.0" stroke="#fa5757"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -864.429443,459.943207 C -895.850525,477.224426 -968.904053,456.014526 -986.185242,424.593414"
+              class="Music Dance" stroke-opacity="1.0" stroke="#fa5757"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -864.429443,459.943207 C -904.510620,468.848724 -977.990540,422.085297 -986.896057,382.004181"
+              class="Music performance" stroke-opacity="1.0" stroke="#fa5757"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#57fa57" r="67.773445" cx="-595.1046"
+                class="Art" cy="699.91766" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#57fa57" r="10.0" cx="-636.12396"
+                class="Jiangnan-University" cy="806.53174" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#57fa57" r="23.839527" cx="-685.4833"
+                class="design" cy="635.7915" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#57fa57" r="10.0" cx="-678.7408"
+                class="Beijing-Institute-Of-Fashion-Technology" cy="774.6792"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#57fa57" r="10.0" cx="-687.42346"
+                class="Xiangtan-University" cy="921.55286" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#57fa57" r="10.0" cx="-520.92145"
+                class="Animation" cy="844.20526" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="23.839527" cx="-280.56085"
+                class="South-China-Agricultural-University" cy="340.28506"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#57fa57" r="10.0" cx="-508.61905"
+                class="Fashion" cy="783.1546" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#57fa57" r="10.0" cx="-563.039"
+                class="Engineering" cy="814.54645" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#57fa57" r="10.0" cx="-602.74976"
+                class="Tsinghua-University" cy="841.6822" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#57fa57" r="10.0" cx="-725.18634"
+                class="The-China-Academy-of-Art" cy="792.14307" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#57fa57" r="10.0" cx="-772.7941"
+                class="Hainan-University" cy="851.29095" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#57fa57" r="10.0" cx="-671.7807"
+                class="Painting" cy="842.2965" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#57fa57" r="10.0" cx="-580.7216"
+                class="Luxun-Academy-of-Fine-Arts" cy="930.56213"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#57fa57" r="10.0" cx="-717.0428"
+                class="Guangzhou-Acmdemy-of-Fine-Arts" cy="728.98016"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="23.839527" cx="-339.55234"
+                class="Industrial" cy="425.32205" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#57fa57" r="10.0" cx="-732.3401"
+                class="Design" cy="890.6053" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#57fa57" r="10.0" cx="-797.2826"
+                class="Sculpture" cy="791.3605" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#57fa57" r="10.0" cx="-522.3453"
+                class="Sichuan-Fine-Art-Institute" cy="914.6009"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="23.839527" cx="-142.87021"
+                class="South-China-Normal-University" cy="187.25375"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#57fa57" r="10.0" cx="-634.70197"
+                class="Donghua-University" cy="928.06323" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#57fa57" r="23.839527" cx="-369.4174"
+                class="Beijing-Forestry-University" cy="656.589"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="100.0" cx="66.557785"
+                class="Liberal-arts" cy="-63.759293" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="522.28076"
+                class="Central-University-of-Finance-and-Economics"
+                cy="-196.0837" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="-138.8313"
+                class="English" cy="-64.76459" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="353.97177"
+                class="Hunan-University" cy="628.88214" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="151.33823"
+                class="Administrative" cy="-828.5816" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="136.11713"
+                class="management" cy="-259.7851" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="303.33078"
+                class="Communication-University-of-China" cy="-698.291"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="-619.1494"
+                class="Creative" cy="-284.6067" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="816.0349"
+                class="media" cy="119.20994" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="-267.10654"
+                class="Chongqing-University" cy="-752.96606" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="-332.2368"
+                class="Electronic" cy="-318.2484" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="117.1513"
+                class="commerce" cy="408.9071" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="-62.860016"
+                class="Zhongshan-University" cy="-219.61818" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="-380.97574"
+                class="Exhibition" cy="-219.20538" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="-204.00243"
+                class="economy" cy="-20.073336" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="25.830095"
+                class="Renmin-University-of-China" cy="322.3406"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="256.12616"
+                class="Management" cy="132.12375" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="834.63696"
+                class="national" cy="10.063625" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="626.7475"
+                class="economy." cy="-593.3626" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="-50.218086"
+                class="Economics" cy="135.81787" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="23.839527" cx="-213.57568"
+                class="Guangdong-University-of-Foreign-Studies" cy="91.176025"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="319.87045"
+                class="International" cy="0.081955045" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="-8.489897"
+                class="Business" cy="-325.25375" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="435.56516"
+                class="Shandong-University-at-Weihai" cy="49.89719"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="132.35889"
+                class="Jinan-University" cy="153.68024" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="257.7808"
+                class="trade" cy="-310.7082" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="-586.8512"
+                class="Beijing-Jiaotong-University" cy="-440.26465"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="-516.6749"
+                class="Economic" cy="-546.4428" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="485.39"
+                class="experiment" cy="474.08765" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="-106.95524"
+                class="class" cy="-296.525" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="35.585007"
+                class="Accounting" cy="-406.05667" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="380.14838"
+                class="Tourism" cy="-52.48229" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="301.53632"
+                class="Law" cy="-98.41268" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="-447.3567"
+                class="Xi&apos;an-International-Studies-University"
+                cy="-630.9787" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="-192.60791"
+                class="Japanese" cy="-147.41708" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="66.64688"
+                class="Chinese" cy="210.65161" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="239.63092"
+                class="language" cy="-210.17278" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="178.0222"
+                class="literature" cy="-332.41696" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="322.19238"
+                class="South-China-University-of-Technology" cy="73.288246"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="341.441"
+                class="Auditing" cy="-447.87466" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="-161.45338"
+                class="Shantou-University" cy="-241.64543" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="171.09367"
+                class="Literature" cy="-434.46774" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="-405.6568"
+                class="Advertising" cy="-105.99916" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="264.28564"
+                class="Gardens" cy="269.9323" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="-13.543027"
+                class="Public" cy="215.83131" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="-607.0374"
+                class="Property" cy="-177.03976" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="332.33307"
+                class="Foreign" cy="157.57372" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="-82.30903"
+                class="commercial" cy="-374.25092" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="-187.11493"
+                class="Zhengzhou-University" cy="-462.46732" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="84.245766"
+                class="Finance" cy="-336.5116" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="731.7268"
+                class="Human" cy="70.043526" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="378.47278"
+                class="resource" cy="535.03796" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="537.43097"
+                class="Liaoning-University" cy="17.20965" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="419.80185"
+                class="Fudan-University" cy="-379.8232" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="-271.78085"
+                class="History" cy="-110.684586" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="69.48548"
+                class="Peking-University" cy="-740.33307" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="-478.8404"
+                class="Zhejiang-University" cy="-458.71936" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="401.5998"
+                class="Social" cy="-142.93657" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="539.86053"
+                class="science" cy="-90.59182" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="-90.389175"
+                class="experimental" cy="-510.58615" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="-238.20093"
+                class="public" cy="-224.56403" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="-173.42587"
+                class="utilities" cy="-696.445" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="328.23685"
+                class="News" cy="-188.39665" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="201.96736"
+                class="communication" cy="193.72983" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="754.73865"
+                class="Beijing-International-Studies-University" cy="-413.61655"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="-283.01968"
+                class="Russian" cy="-640.8624" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="-164.04073"
+                class="China-University-of-Geosciences-(Wuhan)" cy="-796.2969"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="-317.9523"
+                class="Guangdong-Police-College" cy="-14.376345"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="137.67564"
+                class="Science" cy="272.05402" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="338.62396"
+                class="security" cy="-273.95792" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="481.17383"
+                class="Administration" cy="-292.87546" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="436.89655"
+                class="Indonesia" cy="234.98996" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="708.37244"
+                class="Central-South-University" cy="-279.78217"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="837.47894"
+                class="Nanjing-University" cy="-103.651276" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="-54.0775"
+                class="Dongbei-University-of-Finance-and-Economics"
+                cy="-728.4936" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="695.1928"
+                class="Labor" cy="187.20084" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="659.7115"
+                class="social" cy="-391.63504" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="459.26624"
+                class="Financial" cy="-729.18945" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="-61.22941"
+                class="Southwestern-University" cy="-824.3306" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="356.81937"
+                class="China-University-of-Political-Science-and-Law"
+                cy="317.6715" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="497.81885"
+                class="Zhongnan-University-of-Economics-and-Law" cy="141.39728"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="189.07971"
+                class="Wuhan-University" cy="-731.08746" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="-363.1186"
+                class="Editing" cy="-695.9432" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="257.18735"
+                class="Publishing" cy="605.6376" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="156.03593"
+                class="German" cy="622.16864" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="512.67017"
+                class="Humanities" cy="-574.4627" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="251.25769"
+                class="Tax" cy="-503.26575" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="234.2116"
+                class="work" cy="383.63324" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="697.79865"
+                class="The-Central-Instituite-for-Correctional-Police"
+                cy="-506.47742" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="585.6831"
+                class="prison" cy="502.13434" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="477.5019"
+                class="study" cy="576.9127" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="15.226031"
+                class="Radio" cy="-534.9888" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="364.7319"
+                class="television" cy="-774.78503" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="595.15106"
+                class="director" cy="-490.86557" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="796.9816"
+                class="Politics" cy="-317.34454" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="784.5146"
+                class="East-China-Normal-University" cy="220.88087"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="747.169"
+                class="French" cy="-46.732628" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="640.61554"
+                class="foreign" cy="298.08286" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="671.0018"
+                class="Education" cy="412.07422" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="261.06476"
+                class="Southwestern-University-of-Finance-and-Economics"
+                cy="-808.693" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="413.43115"
+                class="Logistics" cy="-644.55743" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="-386.59048"
+                class="Comprehensive personnel training class two, experimental arts"
+                cy="-559.5376" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="-265.6439"
+                class="East-China-University-of-politics-and-law"
+                cy="-397.35406" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="42.96208"
+                class="Translation" cy="-833.9403" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="-549.2195"
+                class="Southwest-University-of-Political-Science-and-Law"
+                cy="-350.15247" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="126.06413"
+                class="Journalism" cy="-536.3031" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="738.45764"
+                class="Guangzhou-University-of-Chinese-Medicine" cy="-162.93192"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="735.83453"
+                class="Acupuncture" cy="316.82913" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="545.44025"
+                class="massage" cy="-667.9151" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="571.1813"
+                class="Television" cy="394.3852" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#5757fa" r="10.0" cx="823.41815"
+                class="Huaqiao-University" cy="-214.16493" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fa5757" r="55.008835" cx="-864.42944"
+                class="Music" cy="459.9432" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fa5757" r="10.0" cx="-943.89874"
+                class="Nanjing-Arts-Institute" cy="359.13217" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fa5757" r="10.0" cx="-966.41754"
+                class="Xinghai-Conservatory-of-Music" cy="477.1945"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fa5757" r="10.0" cx="-987.8048"
+                class="Musicology" cy="531.2375" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fa5757" r="10.0" cx="-1013.3369"
+                class="Nanjing-Normal-University" cy="493.51987"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fa5757" r="10.0" cx="-951.0755"
+                class="School" cy="559.4982" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fa5757" r="10.0" cx="-1022.1005"
+                class="music." cy="447.024" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fa5757" r="10.0" cx="-986.18524"
+                class="Dance" cy="424.5934" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#fa5757" r="10.0" cx="-986.89606"
+                class="performance" cy="382.00418" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="108" x="-595.1046" y="719.4294" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Art">
+            Art
+        </text>
+        <text font-size="16" x="-636.12396" y="810.2375" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Jiangnan-University">
+            Jiangnan-University
+        </text>
+        <text font-size="38" x="-685.4833" y="644.5926" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="design">
+            design
+        </text>
+        <text font-size="16" x="-678.7408" y="778.4357" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="Beijing-Institute-Of-Fashion-Technology">
+            Beijing-Institute-Of-Fashion-Technology
+        </text>
+        <text font-size="16" x="-687.42346" y="925.2586" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Xiangtan-University">
+            Xiangtan-University
+        </text>
+        <text font-size="16" x="-520.92145" y="847.1154" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Animation">
+            Animation
+        </text>
+        <text font-size="38" x="-280.56085" y="349.20367" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="South-China-Agricultural-University">
+            South-China-Agricultural-University
+        </text>
+        <text font-size="16" x="-508.61905" y="786.06476" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Fashion">
+            Fashion
+        </text>
+        <text font-size="16" x="-563.039" y="818.2522" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Engineering">
+            Engineering
+        </text>
+        <text font-size="16" x="-602.74976" y="845.38794" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Tsinghua-University">
+            Tsinghua-University
+        </text>
+        <text font-size="16" x="-725.18634" y="795.8983" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="The-China-Academy-of-Art">
+            The-China-Academy-of-Art
+        </text>
+        <text font-size="16" x="-772.7941" y="854.9967" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Hainan-University">
+            Hainan-University
+        </text>
+        <text font-size="16" x="-671.7807" y="846.00226" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Painting">
+            Painting
+        </text>
+        <text font-size="16" x="-580.7216" y="934.3174" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Luxun-Academy-of-Fine-Arts">
+            Luxun-Academy-of-Fine-Arts
+        </text>
+        <text font-size="16" x="-717.0428" y="732.73535" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Guangzhou-Acmdemy-of-Fine-Arts">
+            Guangzhou-Acmdemy-of-Fine-Arts
+        </text>
+        <text font-size="38" x="-339.55234" y="432.23367" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Industrial">
+            Industrial
+        </text>
+        <text font-size="16" x="-732.3401" y="894.31104" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Design">
+            Design
+        </text>
+        <text font-size="16" x="-797.2826" y="795.06885" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Sculpture">
+            Sculpture
+        </text>
+        <text font-size="16" x="-522.3453" y="917.5631" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Sichuan-Fine-Art-Institute">
+            Sichuan-Fine-Art-Institute
+        </text>
+        <text font-size="38" x="-142.87021" y="196.17236" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="South-China-Normal-University">
+            South-China-Normal-University
+        </text>
+        <text font-size="16" x="-634.70197" y="931.769" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Donghua-University">
+            Donghua-University
+        </text>
+        <text font-size="38" x="-369.4174" y="665.3901" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Beijing-Forestry-University">
+            Beijing-Forestry-University
+        </text>
+        <text font-size="160" x="66.557785" y="-34.65773" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Liberal-arts">
+            Liberal-arts
+        </text>
+        <text font-size="16" x="522.28076" y="-192.32849" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="Central-University-of-Finance-and-Economics">
+            Central-University-of-Finance-and-Economics
+        </text>
+        <text font-size="16" x="-138.8313" y="-61.058857" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="English">
+            English
+        </text>
+        <text font-size="16" x="353.97177" y="632.5879" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Hunan-University">
+            Hunan-University
+        </text>
+        <text font-size="16" x="151.33823" y="-825.67145" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Administrative">
+            Administrative
+        </text>
+        <text font-size="16" x="136.11713" y="-256.1432" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="management">
+            management
+        </text>
+        <text font-size="16" x="303.33078" y="-694.53577" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Communication-University-of-China">
+            Communication-University-of-China
+        </text>
+        <text font-size="16" x="-619.1494" y="-281.64447" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Creative">
+            Creative
+        </text>
+        <text font-size="16" x="816.0349" y="122.120094" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="media">
+            media
+        </text>
+        <text font-size="16" x="-267.10654" y="-749.2108" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Chongqing-University">
+            Chongqing-University
+        </text>
+        <text font-size="16" x="-332.2368" y="-315.33826" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Electronic">
+            Electronic
+        </text>
+        <text font-size="16" x="117.1513" y="411.07507" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="commerce">
+            commerce
+        </text>
+        <text font-size="16" x="-62.860016" y="-215.91245" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Zhongshan-University">
+            Zhongshan-University
+        </text>
+        <text font-size="16" x="-380.97574" y="-216.29523" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Exhibition">
+            Exhibition
+        </text>
+        <text font-size="16" x="-204.00243" y="-17.109795" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="economy">
+            economy
+        </text>
+        <text font-size="16" x="25.830095" y="326.09583" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Renmin-University-of-China">
+            Renmin-University-of-China
+        </text>
+        <text font-size="16" x="256.12616" y="135.82948" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Management">
+            Management
+        </text>
+        <text font-size="16" x="834.63696" y="12.973782" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="national">
+            national
+        </text>
+        <text font-size="16" x="626.7475" y="-590.39905" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="economy.">
+            economy.
+        </text>
+        <text font-size="16" x="-50.218086" y="138.72803" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Economics">
+            Economics
+        </text>
+        <text font-size="38" x="-213.57568" y="100.09465" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="Guangdong-University-of-Foreign-Studies">
+            Guangdong-University-of-Foreign-Studies
+        </text>
+        <text font-size="16" x="319.87045" y="2.9921112" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="International">
+            International
+        </text>
+        <text font-size="16" x="-8.489897" y="-322.3436" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Business">
+            Business
+        </text>
+        <text font-size="16" x="435.56516" y="53.652397" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Shandong-University-at-Weihai">
+            Shandong-University-at-Weihai
+        </text>
+        <text font-size="16" x="132.35889" y="157.38597" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Jinan-University">
+            Jinan-University
+        </text>
+        <text font-size="16" x="257.7808" y="-307.79803" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="trade">
+            trade
+        </text>
+        <text font-size="16" x="-586.8512" y="-436.55893" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Beijing-Jiaotong-University">
+            Beijing-Jiaotong-University
+        </text>
+        <text font-size="16" x="-516.6749" y="-543.53265" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Economic">
+            Economic
+        </text>
+        <text font-size="16" x="485.39" y="477.7465" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="experiment">
+            experiment
+        </text>
+        <text font-size="16" x="-106.95524" y="-293.61484" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="class">
+            class
+        </text>
+        <text font-size="16" x="35.585007" y="-402.35095" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Accounting">
+            Accounting
+        </text>
+        <text font-size="16" x="380.14838" y="-49.572132" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Tourism">
+            Tourism
+        </text>
+        <text font-size="16" x="301.53632" y="-95.502525" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Law">
+            Law
+        </text>
+        <text font-size="16" x="-447.3567" y="-627.2235" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="Xi&apos;an-International-Studies-University">
+            Xi&apos;an-International-Studies-University
+        </text>
+        <text font-size="16" x="-192.60791" y="-143.75822" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Japanese">
+            Japanese
+        </text>
+        <text font-size="16" x="66.64688" y="213.61386" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Chinese">
+            Chinese
+        </text>
+        <text font-size="16" x="239.63092" y="-206.46704" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="language">
+            language
+        </text>
+        <text font-size="16" x="178.0222" y="-329.5068" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="literature">
+            literature
+        </text>
+        <text font-size="16" x="322.19238" y="77.04346" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="South-China-University-of-Technology">
+            South-China-University-of-Technology
+        </text>
+        <text font-size="16" x="341.441" y="-444.16895" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Auditing">
+            Auditing
+        </text>
+        <text font-size="16" x="-161.45338" y="-237.89023" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Shantou-University">
+            Shantou-University
+        </text>
+        <text font-size="16" x="171.09367" y="-431.5576" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Literature">
+            Literature
+        </text>
+        <text font-size="16" x="-405.6568" y="-102.293434" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Advertising">
+            Advertising
+        </text>
+        <text font-size="16" x="264.28564" y="272.89453" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Gardens">
+            Gardens
+        </text>
+        <text font-size="16" x="-13.543027" y="218.74147" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Public">
+            Public
+        </text>
+        <text font-size="16" x="-607.0374" y="-173.33403" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Property">
+            Property
+        </text>
+        <text font-size="16" x="332.33307" y="161.27945" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Foreign">
+            Foreign
+        </text>
+        <text font-size="16" x="-82.30903" y="-371.34076" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="commercial">
+            commercial
+        </text>
+        <text font-size="16" x="-187.11493" y="-458.7616" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Zhengzhou-University">
+            Zhengzhou-University
+        </text>
+        <text font-size="16" x="84.245766" y="-333.60144" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Finance">
+            Finance
+        </text>
+        <text font-size="16" x="731.7268" y="72.95368" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Human">
+            Human
+        </text>
+        <text font-size="16" x="378.47278" y="537.20593" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="resource">
+            resource
+        </text>
+        <text font-size="16" x="537.43097" y="20.915379" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Liaoning-University">
+            Liaoning-University
+        </text>
+        <text font-size="16" x="419.80185" y="-376.1175" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Fudan-University">
+            Fudan-University
+        </text>
+        <text font-size="16" x="-271.78085" y="-106.97886" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="History">
+            History
+        </text>
+        <text font-size="16" x="69.48548" y="-736.6273" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Peking-University">
+            Peking-University
+        </text>
+        <text font-size="16" x="-478.8404" y="-455.01364" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Zhejiang-University">
+            Zhejiang-University
+        </text>
+        <text font-size="16" x="401.5998" y="-139.97433" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Social">
+            Social
+        </text>
+        <text font-size="16" x="539.86053" y="-87.68166" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="science">
+            science
+        </text>
+        <text font-size="16" x="-90.389175" y="-506.9273" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="experimental">
+            experimental
+        </text>
+        <text font-size="16" x="-238.20093" y="-220.90517" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="public">
+            public
+        </text>
+        <text font-size="16" x="-173.42587" y="-693.53485" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="utilities">
+            utilities
+        </text>
+        <text font-size="16" x="328.23685" y="-185.4865" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="News">
+            News
+        </text>
+        <text font-size="16" x="201.96736" y="196.63998" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="communication">
+            communication
+        </text>
+        <text font-size="16" x="754.73865" y="-409.86133" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="Beijing-International-Studies-University">
+            Beijing-International-Studies-University
+        </text>
+        <text font-size="16" x="-283.01968" y="-637.9523" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Russian">
+            Russian
+        </text>
+        <text font-size="16" x="-164.04073" y="-792.5416" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="China-University-of-Geosciences-(Wuhan)">
+            China-University-of-Geosciences-(Wuhan)
+        </text>
+        <text font-size="16" x="-317.9523" y="-10.621136" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Guangdong-Police-College">
+            Guangdong-Police-College
+        </text>
+        <text font-size="16" x="137.67564" y="275.01624" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Science">
+            Science
+        </text>
+        <text font-size="16" x="338.62396" y="-270.2522" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="security">
+            security
+        </text>
+        <text font-size="16" x="481.17383" y="-289.9653" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Administration">
+            Administration
+        </text>
+        <text font-size="16" x="436.89655" y="237.90012" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Indonesia">
+            Indonesia
+        </text>
+        <text font-size="16" x="708.37244" y="-276.02698" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Central-South-University">
+            Central-South-University
+        </text>
+        <text font-size="16" x="837.47894" y="-99.94555" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Nanjing-University">
+            Nanjing-University
+        </text>
+        <text font-size="16" x="-54.0775" y="-724.7384" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="Dongbei-University-of-Finance-and-Economics">
+            Dongbei-University-of-Finance-and-Economics
+        </text>
+        <text font-size="16" x="695.1928" y="190.111" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Labor">
+            Labor
+        </text>
+        <text font-size="16" x="659.7115" y="-388.72488" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="social">
+            social
+        </text>
+        <text font-size="16" x="459.26624" y="-726.2793" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Financial">
+            Financial
+        </text>
+        <text font-size="16" x="-61.22941" y="-820.57544" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Southwestern-University">
+            Southwestern-University
+        </text>
+        <text font-size="16" x="356.81937" y="321.4267" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="China-University-of-Political-Science-and-Law">
+            China-University-of-Political-Science-and-Law
+        </text>
+        <text font-size="16" x="497.81885" y="145.1525" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="Zhongnan-University-of-Economics-and-Law">
+            Zhongnan-University-of-Economics-and-Law
+        </text>
+        <text font-size="16" x="189.07971" y="-727.3817" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Wuhan-University">
+            Wuhan-University
+        </text>
+        <text font-size="16" x="-363.1186" y="-692.2374" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Editing">
+            Editing
+        </text>
+        <text font-size="16" x="257.18735" y="609.3433" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Publishing">
+            Publishing
+        </text>
+        <text font-size="16" x="156.03593" y="625.13086" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="German">
+            German
+        </text>
+        <text font-size="16" x="512.67017" y="-571.55255" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Humanities">
+            Humanities
+        </text>
+        <text font-size="16" x="251.25769" y="-500.3556" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Tax">
+            Tax
+        </text>
+        <text font-size="16" x="234.2116" y="386.5434" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="work">
+            work
+        </text>
+        <text font-size="16" x="697.79865" y="-503.51517" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="The-Central-Instituite-for-Correctional-Police">
+            The-Central-Instituite-for-Correctional-Police
+        </text>
+        <text font-size="16" x="585.6831" y="505.79318" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="prison">
+            prison
+        </text>
+        <text font-size="16" x="477.5019" y="580.61847" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="study">
+            study
+        </text>
+        <text font-size="16" x="15.226031" y="-532.0786" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Radio">
+            Radio
+        </text>
+        <text font-size="16" x="364.7319" y="-771.8749" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="television">
+            television
+        </text>
+        <text font-size="16" x="595.15106" y="-487.9554" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="director">
+            director
+        </text>
+        <text font-size="16" x="796.9816" y="-314.4344" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Politics">
+            Politics
+        </text>
+        <text font-size="16" x="784.5146" y="224.63608" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="East-China-Normal-University">
+            East-China-Normal-University
+        </text>
+        <text font-size="16" x="747.169" y="-43.82247" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="French">
+            French
+        </text>
+        <text font-size="16" x="640.61554" y="301.83807" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="foreign">
+            foreign
+        </text>
+        <text font-size="16" x="671.0018" y="414.98438" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Education">
+            Education
+        </text>
+        <text font-size="16" x="261.06476" y="-804.93774" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="Southwestern-University-of-Finance-and-Economics">
+            Southwestern-University-of-Finance-and-Economics
+        </text>
+        <text font-size="16" x="413.43115" y="-640.8517" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Logistics">
+            Logistics
+        </text>
+        <text font-size="16" x="-386.59048" y="-555.78235" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="Comprehensive personnel training class two, experimental arts">
+            Comprehensive personnel training class two, experimental arts
+        </text>
+        <text font-size="16" x="-265.6439" y="-393.59888" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="East-China-University-of-politics-and-law">
+            East-China-University-of-politics-and-law
+        </text>
+        <text font-size="16" x="42.96208" y="-831.03015" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Translation">
+            Translation
+        </text>
+        <text font-size="16" x="-549.2195" y="-346.39728" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="Southwest-University-of-Political-Science-and-Law">
+            Southwest-University-of-Political-Science-and-Law
+        </text>
+        <text font-size="16" x="126.06413" y="-533.3903" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Journalism">
+            Journalism
+        </text>
+        <text font-size="16" x="738.45764" y="-159.1767" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="Guangzhou-University-of-Chinese-Medicine">
+            Guangzhou-University-of-Chinese-Medicine
+        </text>
+        <text font-size="16" x="735.83453" y="320.48798" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Acupuncture">
+            Acupuncture
+        </text>
+        <text font-size="16" x="545.44025" y="-664.95154" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="massage">
+            massage
+        </text>
+        <text font-size="16" x="571.1813" y="397.29535" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Television">
+            Television
+        </text>
+        <text font-size="16" x="823.41815" y="-210.4592" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Huaqiao-University">
+            Huaqiao-University
+        </text>
+        <text font-size="88" x="-864.42944" y="475.94907" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Music">
+            Music
+        </text>
+        <text font-size="16" x="-943.89874" y="362.8379" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Nanjing-Arts-Institute">
+            Nanjing-Arts-Institute
+        </text>
+        <text font-size="16" x="-966.41754" y="480.9497" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Xinghai-Conservatory-of-Music">
+            Xinghai-Conservatory-of-Music
+        </text>
+        <text font-size="16" x="-987.8048" y="534.94324" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Musicology">
+            Musicology
+        </text>
+        <text font-size="16" x="-1013.3369" y="497.2256" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Nanjing-Normal-University">
+            Nanjing-Normal-University
+        </text>
+        <text font-size="16" x="-951.0755" y="562.46045" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="School">
+            School
+        </text>
+        <text font-size="16" x="-1022.1005" y="449.93414" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="music.">
+            music.
+        </text>
+        <text font-size="16" x="-986.18524" y="427.50357" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="Dance">
+            Dance
+        </text>
+        <text font-size="16" x="-986.89606" y="385.71252" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="performance">
+            performance
+        </text>
+    </g>
+</svg>

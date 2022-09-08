@@ -1,0 +1,17 @@
+#(FREE) community  https://github.com/Emotiv/community-sdk
+Emotiv SDK Community Edition 3.4.0
+Functions:
+	1)Facial Expressions; [Hard to train, Bad]
+	2)Mental Commands; [Hard to train mixed commands]
+	3) 9 Axis Inertial Sensors; [Good]
+	4)FFT (Frequency Bands)
+
+Emotiv SDK Community Edition 3.4.0
+Platform: Win10 64bit
+Program: run on Visual Studio 2017 (samples¡¯ platform VS13) / MATLAB, Unity,...
+API doc: http://emotiv.github.io/community-sdk/
+Language: C++(mainly)
+Reference: https://emotiv.zendesk.com/hc/en-us
+
+*Most samples are of connection detection, having few effect on application development.
+*Most samples are of command window projects, among which some have UIs.

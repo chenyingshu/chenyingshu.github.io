@@ -1,0 +1,75 @@
+h1, h2, h3, h4, h5 {
+	margin-bottom: 0.5rem;
+	margin-top: 1rem;
+}
+
+p {
+	margin-bottom: 0;
+}
+
+small {
+
+}
+
+
+body {
+	margin: 0;
+	padding: 3rem 5rem;
+
+	display: flex;
+	flex-direction: column;
+}
+
+header, footer {
+	text-align: center;
+	padding: 1rem 0;
+}
+
+header {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.avator-counter {
+	display: flex;
+	flex: 1;
+	align-items: center;
+	justify-content: center;
+
+}
+
+	.avator {
+		width: 10rem;
+		height: 10rem;
+		border-radius: 50%;
+	}
+
+.info-counter {
+	display: flex;
+	flex-direction: column;
+	flex: 2;
+}
+
+	.info-text {
+		text-align: left;
+		padding-left: 5%;
+		padding-right: 5%;
+	}
+
+
+.sub-container{
+	padding: 1em 0;
+}
+
+@media screen and (max-width: 992px) {
+  header {
+  		flex-direction: column;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  header {
+  		flex-direction: column;
+  }
+}

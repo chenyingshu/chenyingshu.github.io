@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+    <title>Yingshu's Data World - Chens' Family</title>
+    
+ 	  <link href="css/interactive_tree.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="js/d3.js"></script>
+    <script type="text/javascript" src="js/d3.layout.js"></script>
+ 
+  </head>
+
+  <style type="text/css">
+    .title
+    {
+        font-family: "方正姚体_GBK";
+        font-style: bold;   
+        margin-left: 5%;  
+        margin-top: 5%;
+    }
+
+    <p>{ 
+      text-decoration: none; 
+      font-size: 18px;
+    }
+
+    article{
+      font-family: "方正姚体_GBK";
+      color: #000033;
+      margin-left: 10%;
+      margin-right: 10%;
+      font-size: 16px;
+    }
+  </style>
+
+  <body>
+    <section class = "title">
+        <h1><a href="chens.html" class="chen">陳氏族譜</a></h1>
+        <p><a href="trees.html" class="sz"><span style="font-size:20px;  color: steelblue">始祖</span></a>
+           <a href="treew.html" class="wc">我赤祖</a></p>
+    </section>
+    <div id="chart" style="border:solid 1px; heigth:100%; width:1040px;"></div>
+
+    <article>
+      <p></p>
+      <p>顯祖考諱：天偏，號：存綱，生於嘉靖廿三年，歲次甲辰六月十八日吉時，卒于成萬曆三十八年，歲次庚戌五月廿八日吉時，享寿六十七歲。同男諱：經濟，號明紀，生於萬曆年十一年，歲次癸未年正月廿六日亥時，卒于萬曆年四十一年，歲次癸丑八月十一日吉時，享年卅一歲，停棺在堂，至萬曆四十五年十月十六日葬在土名深灣沙果園，坐未向丑，今大清光緒十七年，歲次辛卯五月廿二日，遷上其棺有三：中居張氏太安人，左居乃天倫祖，右居乃經濟祖，先將張氏太安人葬在古鶴南洋廟後側，今又於光緒十七年六月初二日未時，天倫祖、經濟祖同葬原位：深灣沙果園，坐未向丑兼坤艮，感皇天山川護祐，將來子孫昌盛，長发其祥。</p>
+      <p>謨公為二世祖。<br/>豫為吾陳之祖，至我赤，為十世祖。吾陳家乃我赤十世祖分支子孫。</p>
+    </article>
+
+
+    <script type="text/javascript">
+
+var w = 1080,
+    h = 400,
+    i = 0,
+    duration = 500,
+    root;
+
+var tree = d3.layout.tree()
+    .size([h, w - 160]);
+
+var diagonal = d3.svg.diagonal()
+    .projection(function(d) { return [d.y, d.x]; });
+
+var vis = d3.select("#chart").append("svg:svg")
+    .attr("width", w)
+    .attr("height", h)
+  .append("svg:g")
+    .attr("transform", "translate(40,0)");
+
+d3.json("chens.json", function(json) {
+  json.x0 = 800;
+  json.y0 = 0;
+  update(root = json);
+});
+
+function update(source) {
+
+  // Compute the new tree layout.
+  var nodes = tree.nodes(root).reverse();
+ console.log(nodes)
+  // Update the nodes…
+    var node = vis.selectAll("g.node")
+      .data(nodes, function(d) { return d.id || (d.id = ++i); });
+
+  var nodeEnter = node.enter().append("svg:g")
+      .attr("class", "node")
+      .attr("transform", function(d) { return "translate(" + source.y0 + "," + source.x0 + ")"; });
+      //.style("opacity", 1e-6);
+ 
+  // Enter any new nodes at the parent's previous position.
+ 
+    nodeEnter.append("svg:circle")
+      //.attr("class", "node")
+      //.attr("cx", function(d) { return source.x0; })
+      //.attr("cy", function(d) { return source.y0; })
+      .attr("r", 4.5)
+      .style("fill", function(d) { return d._children ? "lightsteelblue" : "#fff"; })
+      .on("click", click);
+  
+  nodeEnter.append("svg:text")
+        .attr("x", function(d) { return d._children ? -8 : 8; })
+    .attr("y", 3)
+        //.attr("fill","#ccc")
+        //.attr("transform", function(d) { return "translate(" + d.y + "," + d.x + ")"; })
+        .text(function(d) { return d.name; });
+
+  // Transition nodes to their new position.
+  nodeEnter.transition()
+    .duration(duration)
+    .attr("transform", function(d) { return "translate(" + d.y + "," + d.x + ")"; })
+        .style("opacity", 1)
+      .select("circle")
+      //.attr("cx", function(d) { return d.x; })
+    //.attr("cy", function(d) { return d.y; })
+        .style("fill", "lightsteelblue");
+      
+    node.transition()
+      .duration(duration)
+      .attr("transform", function(d) { return "translate(" + d.y + "," + d.x + ")"; })
+      .style("opacity", 1);
+    
+
+  node.exit().transition()
+      .duration(duration)
+      .attr("transform", function(d) { return "translate(" + source.y + "," + source.x + ")"; })
+      .style("opacity", 1e-6)
+      .remove();
+
+  // Update the links…
+  var link = vis.selectAll("path.link")
+      .data(tree.links(nodes), function(d) { return d.target.id; });
+
+  // Enter any new links at the parent's previous position.
+  link.enter().insert("svg:path", "g")
+      .attr("class", "link")
+      .attr("d", function(d) {
+        var o = {x: source.x0, y: source.y0};
+        return diagonal({source: o, target: o});
+      })
+    .transition()
+      .duration(duration)
+      .attr("d", diagonal);
+
+  // Transition links to their new position.
+  link.transition()
+      .duration(duration)
+      .attr("d", diagonal);
+
+  // Transition exiting nodes to the parent's new position.
+  link.exit().transition()
+      .duration(duration)
+      .attr("d", function(d) {
+        var o = {x: source.x, y: source.y};
+        return diagonal({source: o, target: o});
+      })
+      .remove();
+
+  // Stash the old positions for transition.
+  nodes.forEach(function(d) {
+    d.x0 = d.x;
+    d.y0 = d.y;
+  });
+}
+
+// Toggle children on click.
+function click(d) {
+  if (d.children) {
+    d._children = d.children;
+    d.children = null;
+  } else {
+    d.children = d._children;
+    d._children = null;
+  }
+  update(d);
+}
+
+
+function color(d) {
+  return d._children ? "#3182bd" : d.children ? "#c6dbef" : "#fd8d3c";
+}
+d3.select(self.frameElement).style("height", "2000px");
+
+    </script>
+
+  </body>
+</html>

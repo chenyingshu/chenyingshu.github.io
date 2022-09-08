@@ -1,0 +1,72 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<title>Highcharts Example</title>
+
+		<script type="text/javascript" src="http://cdn.hcharts.cn/jquery/jquery-1.8.3.min.js"></script>
+		<style type="text/css">
+${demo.css}
+		</style>
+		<script type="text/javascript">
+$(function () {
+
+    $('#container').highcharts({
+        chart: {
+            type: 'pyramid',
+            marginRight: 150
+        },
+        title: {
+            text: 'Number of Movie Genres at IMDB till Sep, 2016',
+            x: -50
+        },
+        plotOptions: {
+            series: {
+                dataLabels: {
+                    enabled: true,
+                    format: '<b>{point.name}</b> ({point.y:,.0f})',
+                    color: (Highcharts.theme && Highcharts.theme.contrastTextColor) || 'black',
+                    softConnector: true
+                }
+            }
+        },
+        legend: {
+            enabled: false
+        },
+        series: [{
+            name: 'Genre',
+            data: [                    
+                    ['Short', 585047],
+                    ['Drama', 368918],
+                    ['Comedy', 268955],
+                    ['Documentary', 235780],
+                    ['Adult', 76492],
+                    ['Action', 71925],
+                    ['Romance', 71809],
+                    ['Thriller', 71636],
+                    ['Animation', 58955],
+                    ['Family', 56949],
+                    ['Horror', 54811],
+                    ['Crime', 50262],
+                    ['Adventure', 44187],
+                    ['Fantasy', 39773],
+                    ['Sci-Fi', 36158],
+                    ['Mystery', 33600],
+                    ['Musical', 18986],
+                    ['War', 17063],
+                    ['Western', 15557],
+                    ['Film-Noir', 729]
+            ]
+        }]
+    });
+});
+		</script>
+	</head>
+	<body>
+<script src="js/highcharts.js"></script>
+<script src="js/funnel.js"></script>
+
+<div id="container" style="min-width: 410px; max-width: 800px; height: 600px; margin: 0 auto"></div>
+
+	</body>
+</html>

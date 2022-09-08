@@ -1,0 +1,157 @@
+<!---------------------------------------------------
+
+COMP 5411 Rendering project
+Advertisement Style Transfer from 2D to 3D
+Authors: CHEN, Yingshu, HUANG, Huajian
+
+----------------------------------------------------->
+
+<!DOCTYPE html>
+<html class="no-js" lang="">
+
+<head>
+  <meta charset="utf-8">
+  <title></title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="manifest" href="site.webmanifest">
+  <link rel="apple-touch-icon" href="icon.png">
+  <!-- Place favicon.ico in the root directory -->
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/main.css">
+  <meta name="theme-color" content="#fafafa">
+</head>
+
+<body>
+<!--  <div id="loading-canvas">Loading...</div>-->
+  <div id="loading-canvas" class="lds-hourglass"><div></div></div>
+  <!--[if IE]>
+    <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+  <![endif]-->
+
+  <!-- Add your site or application content here -->
+  <script src="js/vendor/modernizr-3.7.1.min.js"></script>
+  <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+  <script>window.jQuery || document.write('<script src="js/vendor/jquery-3.4.1.min.js"><\/script>')</script>
+  <script src="js/plugins.js"></script>
+
+  <script src="js/three.min.js"></script>
+  <script src="js/dat.gui.min.js"></script>
+  <script src="js/GLTFLoader.js"></script> <!--MUST load this script after three.js-->
+  <script src="js/OrbitControls.js"></script> <!--MUST load this script after three.js-->
+  <script type="module" src="js/main.js"></script>
+
+  <script type="text/javascript" src="js/spotlights.js"></script>
+  <script type="text/javascript" src="js/settings.js"></script>
+
+  <div class="main-scene-container" id="main-scene-container">
+  </div>
+
+  <div class="menu-contrainer">
+    <a class="hamburger-shell">
+      <span id = "menu-button">
+        <div class="hamb top"></div>
+        <div class="hamb middle"></div>
+        <div class="menu-name">MENU</div>
+      </span>
+      <ul id="menu">
+        <li class="menu-section">Templates</li>
+        <button class="menu-template-btn active" name="template" value="template_0" id="template_0" onclick="selectTemplate(0)"> Guide<br></button>
+        <button class="menu-template-btn" name="template" value="template_1" id="template_1" onclick="selectTemplate(1)"> Template1<br>
+          <img src="img/diamond.jpg" class="menu-template-img">
+        </button>
+        <button class="menu-template-btn" name="template" value="template_2" id="template_2" onclick="selectTemplate(2)"> Template2<br>
+          <img src="img/beer.png" class="menu-template-img">
+        </button>
+        <button class="menu-template-btn" name="template" value="template_3" id="template_3" onclick="selectTemplate(3)"> Template3<br>
+          <img src="img/beer.png" class="menu-template-img">
+        </button>
+        <li class="menu-section">
+          Music <span class="menu-music-icon" id="music-icon" onclick="musicSwitch()"><img src="img/music-cd.png"></span>
+
+          <audio loop class="music-controls" id="music-controls">
+            <source src="music.mp3" type="audio/mpeg">
+            Your browser does not support the audio element.
+          </audio>
+
+        </li>
+      </ul>
+    </a>
+
+  </div>
+</body>
+
+<!-- Change Template -->
+<script>
+    //change javascript
+    //reference: http://javascriptkit.com/javatutors/loadjavascriptcss2.shtml
+
+    currentTemplateName = "template_0";
+    oldTemplateName = "";
+
+    function removejscssfile(filename, filetype){
+        var targetelement=(filetype=="js")? "script" : (filetype=="css")? "link" : "none" //determine element type to create nodelist from
+        var targetattr=(filetype=="js")? "src" : (filetype=="css")? "href" : "none" //determine corresponding attribute to test for
+        var allsuspects=document.getElementsByTagName(targetelement)
+        for (var i=allsuspects.length; i>=0; i--){ //search backwards within nodelist for matching elements to remove
+            if (allsuspects[i] && allsuspects[i].getAttribute(targetattr)!=null && allsuspects[i].getAttribute(targetattr).indexOf(filename)!=-1)
+                allsuspects[i].parentNode.removeChild(allsuspects[i]) //remove element by calling parentNode.removeChild()
+        }
+    }
+    function createjscssfile(filename, filetype){
+        if (filetype=="js"){ //if filename is a external JavaScript file
+            var fileref=document.createElement('script')
+            fileref.setAttribute("type","text/javascript")
+            fileref.setAttribute("src", filename)
+        }
+        else if (filetype=="css"){ //if filename is an external CSS file
+            var fileref=document.createElement("link")
+            fileref.setAttribute("rel", "stylesheet")
+            fileref.setAttribute("type", "text/css")
+            fileref.setAttribute("href", filename)
+        }
+        return fileref
+    }
+
+    function replacejscssfile(oldfilename, newfilename, filetype){
+        var targetelement=(filetype=="js")? "script" : (filetype=="css")? "link" : "none" //determine element type to create nodelist using
+        var targetattr=(filetype=="js")? "src" : (filetype=="css")? "href" : "none" //determine corresponding attribute to test for
+        // var targetelement = "script";
+        // var targetattr = "src";
+        var allsuspects=document.getElementsByTagName(targetelement)
+        for (var i=allsuspects.length; i>=0; i--){ //search backwards within nodelist for matching elements to remove
+            if (allsuspects[i] && allsuspects[i].getAttribute(targetattr)!=null && allsuspects[i].getAttribute(targetattr).indexOf(oldfilename)!=-1){
+                var newelement=createjscssfile(newfilename, filetype)
+                allsuspects[i].parentNode.replaceChild(newelement, allsuspects[i])
+            }
+        }
+    }
+
+    /***** MUSIC CONTROLS ****/
+    var music_on = false;
+
+    function musicSwitch() {
+        console.log("switch music on/off!");
+        music_on = !music_on;
+        var musicIconElem = document.getElementById("music-icon");
+        var musicControlElem = document.getElementById("music-controls");
+        if (music_on) {
+            musicIconElem.classList.add("active");
+            musicControlElem.play();
+        } else {
+            musicIconElem.classList.remove("active");
+            musicControlElem.pause();
+        }
+    }
+
+    function startMusic() {
+        var musicIconElem = document.getElementById("music-icon");
+        var musicControlElem = document.getElementById("music-controls");
+        music_on = true;
+        musicIconElem.classList.add("active");
+        musicControlElem.play();
+    }
+
+</script>
+
+</html>

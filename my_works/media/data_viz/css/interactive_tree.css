@@ -1,0 +1,39 @@
+circle {
+  cursor: pointer;
+  fill: #fff;
+  stroke: steelblue;
+  stroke-width: 2px;
+}
+
+text {
+	font-size:10px;
+	font-style: bold;
+	font-family: "方正姚体_GBK"
+}
+
+path.link {
+  fill: none;
+  stroke: #ccc;
+  stroke-width: 1.5px;
+}
+
+a{
+  text-decoration: none; 
+}
+
+a:visited{
+  color: black;
+}
+
+a.chen:hover{
+   font-size: 48px;
+}
+
+a.sz:hover{
+  font-size: 20px;
+  color: steelblue;
+}
+a.wc:hover{
+  font-size: 20px;
+  color: coral;
+}

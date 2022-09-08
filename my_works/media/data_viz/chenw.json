@@ -1,0 +1,92 @@
+{
+ "name": "我赤祖",
+ "children": [
+  {"name": "宣颖"},
+  {"name": "名伍"},
+  {"name": "世颖"},
+  {"name": "宗颖",
+   "children": [
+    {"name":"名升"},
+    {"name":"庚兴"},
+    {"name":"庚相",
+     "children": [
+      {"name":"锡爵",
+       "children":[
+        {"name":"瑞衍"},
+        {"name":"瑞东"},
+        {"name":"瑞凝",
+         "children":[
+          {"name":"仁显",
+           "children":[
+            {"name":"延辉",
+             "children":[
+              {"name":"联基"},
+              {"name":"泽基",
+               "children":[
+                {"name":"业懋",
+                 "children":[
+                  {"name":"华振"}
+                 ]
+                },
+                {"name":"业泉",
+                 "children":[
+                  {"name":"华族",
+                   "children":[
+                    {"name":"汉辉",
+                     "children":[
+                      {"name":"德怀"}
+                     ]},
+                    {"name":"汉伟",
+                     "children":[
+                      {"name":"劲锋"}
+                     ]},
+                    {"name":"汉荣",
+                     "children":[
+                      {"name":"君临"}
+                     ]
+                    }
+                   ]
+                  },
+                  {"name":"华民(爷爷)",
+                   "children":[
+                    {"name":"维新(父亲)",
+                     "children":[
+                      {"name":"启峰(哥哥)"}
+                     ]
+                    },
+                    {"name":"维邦"}
+                   ]
+                  }
+                 ]
+                }
+               ]
+              }
+             ]
+            },
+            {"name":"延英"}
+           ]
+          }
+         ]
+        },
+        {"name":"瑞华"},
+        {"name":"瑞金"}
+       ]
+      },
+      {"name":"锡光"}
+     ]
+    },
+    {"name":"庚合"}
+   ]
+  },
+  {"name": "昌颖",
+   "children":[
+    {"name":"庚杨"},
+    {"name":"庚千"},
+    {"name":"平顺"},
+    {"name":"庚万"},
+    {"name":"名保"},
+    {"name":"平筒"}
+   ]
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<title>Highcharts Example</title>
+
+		<script type="text/javascript" src="http://cdn.hcharts.cn/jquery/jquery-1.8.3.min.js"></script>
+		<style type="text/css">
+${demo.css}
+		</style>
+		<script type="text/javascript">
+$(function () {
+    $('#container').highcharts({
+        chart: {
+            plotBackgroundColor: null,
+            plotBorderWidth: null,
+            plotShadow: false,
+            type: 'pie'
+        },
+        title: {
+            text: 'Movie Genres Collected at IMDB till Sep, 2016'
+        },
+        tooltip: {
+            pointFormat: '{series.name}: <b>{point.percentage:.2f}%</b>'
+        },
+        plotOptions: {
+            pie: {
+                allowPointSelect: true,
+                cursor: 'pointer',
+                dataLabels: {
+                    enabled: true,
+                    format: '<b>{point.name}</b>: {point.percentage:.2f} %',
+                    style: {
+                        color: (Highcharts.theme && Highcharts.theme.contrastTextColor) || 'black'
+                    }
+                },
+                showInLegend: true  
+            }
+        },
+        series: [{
+            name: 'Brands',
+            colorByPoint: true,
+            data: [
+                    ['Film-Noir', 729],
+                    ['Western', 15557],
+                    ['War', 17063],
+                    ['Musical', 18986],
+                    ['Mystery', 33600],
+                    ['Fantasy', 39773],
+                    ['Sci-Fi', 36158],
+                    ['Adventure', 44187],
+                    ['Crime', 50262],
+                    ['Horror', 54811],
+                    ['Family', 56949],
+                    ['Animation', 58955],
+                    ['Thriller', 71636],
+                    ['Romance', 71809],
+                    ['Action', 71925],
+                    ['Adult', 76492],
+                    ['Documentary', 235780],
+                    ['Comedy', 268955],
+                    ['Drama', 368918],
+                    ['Short', 585047],
+            ]
+        }]
+    });
+});
+		</script>
+	</head>
+	<body>
+<script src="js/highcharts.js"></script>
+
+<div id="container" style="min-width: 310px; height: 600px; max-width: 800px; margin: 0 auto"></div>
+
+	</body>
+</html>

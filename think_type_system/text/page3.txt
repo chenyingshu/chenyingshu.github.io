@@ -1,0 +1,4 @@
+#Premium - only for commercial application (need to purchase for license)
+Functions:
+	1)Performance Metrics;
+	2)Raw EEG
