@@ -140,4 +140,9 @@ header {
         height: 10rem;
         border-radius: 50%;
     }
+
+
+	.publication-container{
+		flex-direction: column;
+	}
 }
