@@ -130,6 +130,17 @@ header {
     }
 }
 
+@media screen and (max-width: 991.98px) {
+
+	.publication-container{
+		flex-direction: column;
+	}
+	.sub-text-container {
+		padding: 0 0.5rem;
+	}
+}
+
+
 @media screen and (max-width: 600px) {
     header {
         flex-direction: column;
