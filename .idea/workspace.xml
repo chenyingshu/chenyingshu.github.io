@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e5345a40-6d01-468f-9da7-27eabb4d6540" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cv_cys.html" beforeDir="false" afterPath="$PROJECT_DIR$/cv_cys.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,6 +27,11 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="OPEN_URL_DIALOG">
+      <recent name="https://github.com/hilaryliang/UnderwaterVedioPlatform.git" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -55,7 +59,10 @@
       <workItem from="1663067290453" duration="495000" />
       <workItem from="1663148278676" duration="1959000" />
       <workItem from="1664095669634" duration="1045000" />
-      <workItem from="1664361936740" duration="1634000" />
+      <workItem from="1664361936740" duration="2589000" />
+      <workItem from="1665650393442" duration="67000" />
+      <workItem from="1665650713268" duration="722000" />
+      <workItem from="1666265716650" duration="225000" />
     </task>
     <servers />
   </component>
