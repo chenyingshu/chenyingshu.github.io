@@ -27,7 +27,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MarineVideoWebApp/marine-video-web-app" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="OPEN_URL_DIALOG">
@@ -66,6 +66,7 @@
       <workItem from="1666265716650" duration="852000" />
       <workItem from="1666342775912" duration="25000" />
       <workItem from="1689563985661" duration="2460000" />
+      <workItem from="1689567110633" duration="370000" />
     </task>
     <servers />
   </component>
