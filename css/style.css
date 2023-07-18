@@ -13,8 +13,12 @@ small {
 
 .none-decoration, a, a:hover, a:active, a:visited, a:focus {
 	text-decoration:none;
+	color: black;
 }
 
+.link-style {
+	text-transform: capitalize;
+}
 
 :lang(en) {
 	font-family: Palatino Linotype, Helvetica Neue, Helvetica, Arial, 'Open Sans', sans-serif;
@@ -40,6 +44,15 @@ header {
 	display: flex;
 	justify-content: center;
 	align-items: center;
+}
+
+.fancy-hr {
+	border: 1px solid #0071a9;
+	box-shadow: 2px 2px 2px #eaebff;
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	/*background-color: #b9d8ff;*/
 }
 
 .avator-counter {
