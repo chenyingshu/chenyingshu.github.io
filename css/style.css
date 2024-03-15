@@ -58,11 +58,11 @@ a:hover {
 }
 
 :lang(en) {
-	font-family: Palatino Linotype, Helvetica Neue, Helvetica, Arial, 'Open Sans', sans-serif;
+	font-family: 'Open Sans', sans-serif, Helvetica Neue, Helvetica, Arial,'Open Sans', sans-serif, Palatino Linotype, Helvetica Neue, Helvetica, Arial;
 }
 
 :lang(cn) {
-	font-family: Georgia, "Times New Roman", "FangSong",  STFangSong, serif;
+	font-family: "FangSong",  STFangSong, serif, Georgia, "Times New Roman";
 }
 body {
 	margin: 0;
