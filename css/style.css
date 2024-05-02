@@ -225,3 +225,36 @@ header {
 		flex-direction: column;
 	}
 }
+
+/****************** CV *****************/
+/*https://themes.3rdwavemedia.com/demo/bs5/pillar/*/
+.cv-title {
+	position: relative;
+	/*color: #434E5E;*/
+	color: var(--gray-dark);
+	padding-bottom: 1rem;
+}
+.cv-title:after {
+	content: "";
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	height: 0.1rem;
+	background: #8d9aad;
+}
+
+.exp-item {
+	display: flex;
+	flex-direction: column;
+	padding: 0.2rem 0.5rem 0.5rem 0;
+}
+.exp-item-header{
+	display: flex;
+	flex-direction: row;
+	padding-bottom: 0.1rem;
+}
+.exp-item-header .exp-time {
+	margin-left: auto;
+	text-align: right;
+}
