@@ -228,11 +228,14 @@ header {
 
 /****************** CV *****************/
 /*https://themes.3rdwavemedia.com/demo/bs5/pillar/*/
+.cv-container h1, .cv-container h2, .cv-container h3, .cv-container h4, .cv-container h5{
+	color: var(--gray-dark);
+}
 .cv-title {
 	position: relative;
 	/*color: #434E5E;*/
 	color: var(--gray-dark);
-	padding-bottom: 1rem;
+	padding-bottom: 0.5rem;
 }
 .cv-title:after {
 	content: "";
@@ -241,7 +244,8 @@ header {
 	bottom: 0;
 	width: 100%;
 	height: 0.1rem;
-	background: #8d9aad;
+	/*background: #8d9aad;*/
+	background: var(--cyan)
 }
 
 .exp-item {
